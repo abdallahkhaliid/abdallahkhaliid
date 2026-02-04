@@ -36,7 +36,10 @@
 ---
 
 ### :fire: My Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdallahkhaliid&theme=highcontrast&border_radius=5&fire=EB5454)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahkhaliid&layout=compact&theme=vision-friendly-dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdallahkhaliid&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdallahkhaliid&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdallahkhaliid&theme=github_dark)
 
 
